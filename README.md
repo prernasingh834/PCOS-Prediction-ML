@@ -9,6 +9,10 @@ This project predicts the risk of Polycystic Ovary Syndrome (PCOS) using a Machi
 - Probability-based risk categorization
 - Model saving using joblib
 
+## Project Screenshot
+
+![PCOS App Screenshot](images/your-image-name.png)
+
 ## Technologies Used
 - Python
 - Pandas
